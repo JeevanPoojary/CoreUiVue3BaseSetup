@@ -18,7 +18,7 @@ export default [
     items: [
       {
         component: 'CNavItem',
-        name: 'Accordion',
+        name: 'Child-Components',
         to: '/base/accordion',
       },
     ],
