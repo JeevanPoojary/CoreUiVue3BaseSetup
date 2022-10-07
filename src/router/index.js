@@ -33,7 +33,7 @@ const routes = [
         children: [
           {
             path: '/base/accordion',
-            name: 'Accordion',
+            name: 'Child-Components',
             component: () => import('@/views/base/Accordion.vue'),
           },
         ],
