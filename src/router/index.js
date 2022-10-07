@@ -23,7 +23,7 @@ const routes = [
 
       {
         path: '/base',
-        name: 'Base',
+        name: 'Components',
         component: {
           render() {
             return h(resolveComponent('router-view'))
