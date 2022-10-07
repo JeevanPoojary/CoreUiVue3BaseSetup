@@ -12,7 +12,7 @@ export default [
 
   {
     component: 'CNavGroup',
-    name: 'Base',
+    name: 'Components',
     to: '/base',
     icon: 'cil-puzzle',
     items: [
